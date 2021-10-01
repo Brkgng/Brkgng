@@ -2,7 +2,7 @@
 <br>
 
 ## 👨🏻‍💻  About Me
-💻 &nbsp;I'm Computer Engineer \
+💻 &nbsp;I'm a Computer Engineer \
 🔭 &nbsp;I’m currently working on Understanding Emotions Through Facial Expressions. \
 🌱 &nbsp;I’m on track for learning more about Artificial Intelligence. \
 👯 &nbsp;I’m looking to collaborate on open source projects. \
